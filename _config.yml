@@ -17,19 +17,19 @@ avatar: http://hand.team/wp-content/uploads/2017/02/logo-hand-blanc.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  dribbble: test
+  email: test@hand.team
+  facebook: test
+  flickr: test
+  github: test
+  instagram: test
+  linkedin: test
+  pinterest: test
+  rss: test # just type anything here for a working RSS icon
+  twitter: test
+  stackoverflow: test # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: test # channel/<your_long_string> or user/<user-name>
+  googleplus: test # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
