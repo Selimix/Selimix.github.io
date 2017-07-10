@@ -18,7 +18,7 @@ end-date: Objectif fin de chantier le 15 juin
 squadleader-title: SquadLeader du chantier @MonsieurChrisTan
 
 # Liked skills SquadLeader  (displayed below the squadleader-title)
-liked-skills: Compétences appréciées : Python, Les moteurs électriques, la cuisson du veau, le pilotage en espace urbain, et tout le reste.
+liked-skills: Compétences appréciées ":" Python, Les moteurs électriques, la cuisson du veau, le pilotage en espace urbain, et tout le reste.
 
 # sub-topic  (displayed in a sub title below the main description box)
 sub-topic: Le software du drone
